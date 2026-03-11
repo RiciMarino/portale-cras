@@ -639,9 +639,14 @@ tr.soft-deadline:hover td:first-child::before{
 let EMBEDDED_DATA = [];
 
 async function loadData() {
-  const response = await fetch('./data.json');
-  EMBEDDED_DATA = await response.json();
-
+  try {
+    const response = await fetch('./data.json');
+    if (!response.ok) throw new Error('HTTP ' + response.status);
+    EMBEDDED_DATA = await response.json();
+    init();
+  } catch (err) {
+    console.error('Errore caricamento data.json:', err);
+  }
 }
 
 loadData();
@@ -1097,7 +1102,6 @@ function buildPrintHtml(regione, include2, include3){
   return '<html><head><title>' + escHtml(title) + '</title>' + style + '</head><body>' + body + '</body></html>';
 }
 
-init();
 </script>
 </body>
 </html>
