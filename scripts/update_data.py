@@ -32,9 +32,9 @@ def extract_table(ws, header_row, start_col, ncols, stop_row=None):
     return headers, rows
 
 
-h1, rows1 = extract_table(ws,5,1,5)
-h2, rows2 = extract_table(ws,5,7,6, stop_row=156)
-h3, rows3 = extract_table(ws,160,7,6)
+h1, rows1 = extract_table(ws,5,1,6)
+h2, rows2 = extract_table(ws,5,8,6)
+h3, rows3 = extract_table(ws,5,15,6)
 
 df1=pd.DataFrame(rows1, columns=h1)
 df2=pd.DataFrame(rows2, columns=h2)
