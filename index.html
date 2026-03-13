@@ -700,7 +700,7 @@ function updateKPIs(){
   document.getElementById('kpiOk').textContent = ok.length.toLocaleString('it');
 
   // KPI 2: Numero campionati (solo quelli che soddisfano C.U.) → univoci per Disciplina+Categoria
-  const campCount = new Set(ok.map(r => `${(r.Disciplina||'')} ${(r.categoria||'')}`)).size;
+  const campCount = new Set(ok.map(r => `${r.Disciplina || ''}||${r.categoria || ''}`)).size;
 
   // KPI 3: Regioni (solo soddisfano C.U.) — mostrato solo se selezionate Disciplina + Categoria
   const showRegioni = (f.disc && f.disc.length > 0) && (f.cat && f.cat.length > 0);
