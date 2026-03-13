@@ -604,7 +604,8 @@ tr.soft-deadline:hover td:first-child::before{
       CSI — Centro Sportivo Italiano · Dashboard Campionati Regionali
     </div>
 </div>
-<script src="https://code.jquery.com/jquery-3.7.1.min.js">
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script>
     // --- Custom numeric sorting for Italian formatted numbers (e.g. "1.234", "12 345", "1.234,56") ---
     // This fixes the SQUADRE column ordering when values are read as strings.
     if ($.fn.dataTable) {
@@ -643,6 +644,7 @@ async function loadData() {
     const response = await fetch('./data.json');
     if (!response.ok) throw new Error('HTTP ' + response.status);
     EMBEDDED_DATA = await response.json();
+      console.log('Dati caricati:', EMBEDDED_DATA.length, EMBEDDED_DATA[0]);
     init();
   } catch (err) {
     console.error('Errore caricamento data.json:', err);
