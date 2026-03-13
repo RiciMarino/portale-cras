@@ -7,7 +7,7 @@ excel_path = "_Tabelle sport di squadra_2026.xlsx"
 index_path = "index.html"
 
 wb = openpyxl.load_workbook(excel_path, data_only=True)
-ws = wb["Tabelle Attività RIUNIONE MARZO"]
+ws = wb["Tabelle attivita"]
 
 def extract_table(ws, header_row, start_col, ncols, stop_row=None):
     headers=[ws.cell(header_row, start_col+i).value for i in range(ncols)]
