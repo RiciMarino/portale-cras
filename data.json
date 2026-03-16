@@ -887,7 +887,7 @@
     "categoria": "Under 12 (Supervolley - 4vs4)",
     "Regione": "Campania",
     "Comitato": "Napoli",
-    "Squadre": 6,
+    "Squadre": 8,
     "NOTE": ""
   },
   {
@@ -1190,10 +1190,19 @@
   {
     "status": "Soddisfa C.U.",
     "Disciplina": "Calcio a Sette",
+    "categoria": "Under 10",
+    "Regione": "Emilia-Romagna",
+    "Comitato": "Emilia Romagna",
+    "Squadre": 3,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Calcio a Sette",
     "categoria": "Under 12",
     "Regione": "Emilia-Romagna",
     "Comitato": "Emilia Romagna",
-    "Squadre": 1,
+    "Squadre": 2,
     "NOTE": ""
   },
   {
@@ -1217,16 +1226,43 @@
   {
     "status": "Soddisfa C.U.",
     "Disciplina": "Pallavolo",
+    "categoria": "Open Femminile",
+    "Regione": "Emilia-Romagna",
+    "Comitato": "Emilia Romagna",
+    "Squadre": 6,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Pallavolo",
+    "categoria": "Open Maschile",
+    "Regione": "Emilia-Romagna",
+    "Comitato": "Emilia Romagna",
+    "Squadre": 2,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Pallavolo",
     "categoria": "Open Misto",
     "Regione": "Emilia-Romagna",
     "Comitato": "Emilia Romagna",
-    "Squadre": 1,
+    "Squadre": 5,
     "NOTE": ""
   },
   {
     "status": "Soddisfa C.U.",
     "Disciplina": "Pallavolo",
     "categoria": "Pallavolo Integrata",
+    "Regione": "Emilia-Romagna",
+    "Comitato": "Emilia Romagna",
+    "Squadre": 2,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Pallavolo",
+    "categoria": "Under 10 (Minivolley - 3vs3)",
     "Regione": "Emilia-Romagna",
     "Comitato": "Emilia Romagna",
     "Squadre": 2,
@@ -1247,7 +1283,7 @@
     "categoria": "Under 12 (Supervolley - 4vs4)",
     "Regione": "Emilia-Romagna",
     "Comitato": "Emilia Romagna",
-    "Squadre": 1,
+    "Squadre": 4,
     "NOTE": ""
   },
   {
@@ -5063,7 +5099,7 @@
     "categoria": "Juniores M",
     "Regione": "Puglia",
     "Comitato": "Bari",
-    "Squadre": 5,
+    "Squadre": 6,
     "NOTE": ""
   },
   {
@@ -5136,6 +5172,24 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 5,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Calcio a Cinque",
+    "categoria": "Under 10",
+    "Regione": "Puglia",
+    "Comitato": "Brindisi",
+    "Squadre": 5,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Calcio a Cinque",
+    "categoria": "Under 12",
+    "Regione": "Puglia",
+    "Comitato": "Brindisi",
+    "Squadre": 7,
     "NOTE": ""
   },
   {
@@ -5421,6 +5475,24 @@
     "status": "Soddisfa C.U.",
     "Disciplina": "Calcio a Sette",
     "categoria": "Under 12",
+    "Regione": "Puglia",
+    "Comitato": "Ostuni",
+    "Squadre": 5,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Pallavolo",
+    "categoria": "Under 10 (Minivolley - 3vs3)",
+    "Regione": "Puglia",
+    "Comitato": "Ostuni",
+    "Squadre": 5,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Pallavolo",
+    "categoria": "Under 12 (Supervolley - 4vs4)",
     "Regione": "Puglia",
     "Comitato": "Ostuni",
     "Squadre": 5,
@@ -6044,7 +6116,7 @@
     "categoria": "Ragazzi",
     "Regione": "Sicilia",
     "Comitato": "Palermo",
-    "Squadre": 7,
+    "Squadre": 11,
     "NOTE": ""
   },
   {
@@ -6062,7 +6134,7 @@
     "categoria": "Under 12",
     "Regione": "Sicilia",
     "Comitato": "Palermo",
-    "Squadre": 5,
+    "Squadre": 6,
     "NOTE": ""
   },
   {
@@ -6152,7 +6224,7 @@
     "categoria": "Under 10 (Minivolley - 3vs3)",
     "Regione": "Sicilia",
     "Comitato": "Palermo",
-    "Squadre": 7,
+    "Squadre": 8,
     "NOTE": ""
   },
   {
@@ -6161,7 +6233,7 @@
     "categoria": "Under 12 (Supervolley - 4vs4)",
     "Regione": "Sicilia",
     "Comitato": "Palermo",
-    "Squadre": 8,
+    "Squadre": 9,
     "NOTE": ""
   },
   {
@@ -6617,6 +6689,15 @@
   {
     "status": "Soddisfa C.U.",
     "Disciplina": "Pallacanestro",
+    "categoria": "Allievi",
+    "Regione": "Umbria",
+    "Comitato": "Perugia",
+    "Squadre": 5,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Pallacanestro",
     "categoria": "Open M",
     "Regione": "Umbria",
     "Comitato": "Perugia",
@@ -6629,7 +6710,7 @@
     "categoria": "Under 10",
     "Regione": "Umbria",
     "Comitato": "Perugia",
-    "Squadre": 9,
+    "Squadre": 10,
     "NOTE": ""
   },
   {
@@ -6638,7 +6719,7 @@
     "categoria": "Under 12",
     "Regione": "Umbria",
     "Comitato": "Perugia",
-    "Squadre": 9,
+    "Squadre": 10,
     "NOTE": ""
   },
   {
@@ -6647,7 +6728,7 @@
     "categoria": "Under 13",
     "Regione": "Umbria",
     "Comitato": "Perugia",
-    "Squadre": 5,
+    "Squadre": 6,
     "NOTE": ""
   },
   {
@@ -7296,7 +7377,7 @@
     "Regione": "Abruzzo",
     "Comitato": "Teramo",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7305,7 +7386,7 @@
     "Regione": "Abruzzo",
     "Comitato": "Teramo",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7314,7 +7395,7 @@
     "Regione": "Abruzzo",
     "Comitato": "Teramo",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7323,7 +7404,7 @@
     "Regione": "Basilicata",
     "Comitato": "Potenza",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7332,7 +7413,7 @@
     "Regione": "Calabria",
     "Comitato": "Lamezia Terme",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7341,7 +7422,7 @@
     "Regione": "Calabria",
     "Comitato": "Lamezia Terme",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7350,7 +7431,7 @@
     "Regione": "Calabria",
     "Comitato": "Reggio Calabria",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7359,7 +7440,7 @@
     "Regione": "Calabria",
     "Comitato": "Reggio Calabria",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7368,7 +7449,7 @@
     "Regione": "Campania",
     "Comitato": "Caserta",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7377,7 +7458,7 @@
     "Regione": "Campania",
     "Comitato": "Caserta",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7386,7 +7467,7 @@
     "Regione": "Campania",
     "Comitato": "Caserta",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7395,7 +7476,7 @@
     "Regione": "Campania",
     "Comitato": "Caserta",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7404,7 +7485,7 @@
     "Regione": "Campania",
     "Comitato": "Caserta",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7413,7 +7494,7 @@
     "Regione": "Campania",
     "Comitato": "Caserta",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7422,7 +7503,7 @@
     "Regione": "Campania",
     "Comitato": "Caserta",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7431,7 +7512,7 @@
     "Regione": "Campania",
     "Comitato": "Napoli",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7440,7 +7521,7 @@
     "Regione": "Campania",
     "Comitato": "Napoli",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7449,7 +7530,7 @@
     "Regione": "Campania",
     "Comitato": "Napoli",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7458,7 +7539,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Bologna",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7467,7 +7548,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Faenza",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7476,7 +7557,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Forli",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7485,7 +7566,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Modena",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7494,7 +7575,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Parma",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7503,7 +7584,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Parma",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7512,7 +7593,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Parma",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7521,7 +7602,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Parma",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7530,7 +7611,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Parma",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7539,7 +7620,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Parma",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7548,7 +7629,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Parma",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7557,7 +7638,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Parma",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7566,7 +7647,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Reggio Emilia",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7575,7 +7656,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Reggio Emilia",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7584,7 +7665,7 @@
     "Regione": "Emilia-Romagna",
     "Comitato": "Reggio Emilia",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7593,7 +7674,7 @@
     "Regione": "Lazio",
     "Comitato": "Roma",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7602,7 +7683,7 @@
     "Regione": "Lazio",
     "Comitato": "Roma",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7611,7 +7692,7 @@
     "Regione": "Lazio",
     "Comitato": "Roma",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7620,7 +7701,7 @@
     "Regione": "Lazio",
     "Comitato": "Roma",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7629,7 +7710,7 @@
     "Regione": "Liguria",
     "Comitato": "Chiavari",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7638,7 +7719,7 @@
     "Regione": "Liguria",
     "Comitato": "Chiavari",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7647,7 +7728,7 @@
     "Regione": "Liguria",
     "Comitato": "Chiavari",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7656,7 +7737,7 @@
     "Regione": "Liguria",
     "Comitato": "Imperia-Sanremo",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7665,7 +7746,7 @@
     "Regione": "Liguria",
     "Comitato": "Imperia-Sanremo",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7674,7 +7755,7 @@
     "Regione": "Liguria",
     "Comitato": "Imperia-Sanremo",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7683,7 +7764,7 @@
     "Regione": "Liguria",
     "Comitato": "Imperia-Sanremo",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7692,7 +7773,7 @@
     "Regione": "Liguria",
     "Comitato": "Imperia-Sanremo",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7701,7 +7782,7 @@
     "Regione": "Liguria",
     "Comitato": "Imperia-Sanremo",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7710,7 +7791,7 @@
     "Regione": "Liguria",
     "Comitato": "Imperia-Sanremo",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7719,7 +7800,7 @@
     "Regione": "Lombardia",
     "Comitato": "Brescia",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7728,7 +7809,7 @@
     "Regione": "Lombardia",
     "Comitato": "Brescia",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7737,7 +7818,7 @@
     "Regione": "Lombardia",
     "Comitato": "Como",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7746,7 +7827,7 @@
     "Regione": "Lombardia",
     "Comitato": "Crema",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7755,7 +7836,7 @@
     "Regione": "Lombardia",
     "Comitato": "Crema",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7764,7 +7845,7 @@
     "Regione": "Lombardia",
     "Comitato": "Crema",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7773,7 +7854,7 @@
     "Regione": "Lombardia",
     "Comitato": "Sondrio",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7782,7 +7863,7 @@
     "Regione": "Lombardia",
     "Comitato": "Sondrio",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7791,7 +7872,7 @@
     "Regione": "Piemonte",
     "Comitato": "Cuneo",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7800,7 +7881,7 @@
     "Regione": "Piemonte",
     "Comitato": "Cuneo",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7809,7 +7890,7 @@
     "Regione": "Piemonte",
     "Comitato": "Cuneo",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7818,7 +7899,7 @@
     "Regione": "Piemonte",
     "Comitato": "Novara",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7827,7 +7908,7 @@
     "Regione": "Piemonte",
     "Comitato": "Subalpino",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7836,7 +7917,7 @@
     "Regione": "Piemonte",
     "Comitato": "Subalpino",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7845,7 +7926,7 @@
     "Regione": "Puglia",
     "Comitato": "Bari",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7854,7 +7935,7 @@
     "Regione": "Puglia",
     "Comitato": "Bari",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7863,7 +7944,7 @@
     "Regione": "Puglia",
     "Comitato": "Bari",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7872,7 +7953,7 @@
     "Regione": "Puglia",
     "Comitato": "Bari",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7881,7 +7962,7 @@
     "Regione": "Puglia",
     "Comitato": "Bari",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7890,7 +7971,7 @@
     "Regione": "Puglia",
     "Comitato": "Barletta A.T.",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7899,7 +7980,7 @@
     "Regione": "Puglia",
     "Comitato": "Barletta A.T.",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7908,7 +7989,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7917,25 +7998,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
-  },
-  {
-    "status": "non soddisfa c.u.",
-    "Disciplina": "Calcio a Cinque",
-    "categoria": "Under 10",
-    "Regione": "Puglia",
-    "Comitato": "Brindisi",
-    "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
-  },
-  {
-    "status": "non soddisfa c.u.",
-    "Disciplina": "Calcio a Cinque",
-    "categoria": "Under 12",
-    "Regione": "Puglia",
-    "Comitato": "Brindisi",
-    "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7944,7 +8007,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7953,7 +8016,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7962,7 +8025,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7971,7 +8034,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7980,7 +8043,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7989,7 +8052,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -7997,8 +8060,8 @@
     "categoria": "Under 10",
     "Regione": "Puglia",
     "Comitato": "Brindisi",
-    "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "Squadre": 4,
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8007,7 +8070,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8015,8 +8078,8 @@
     "categoria": "Under 13",
     "Regione": "Puglia",
     "Comitato": "Brindisi",
-    "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "Squadre": 4,
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8024,8 +8087,8 @@
     "categoria": "Under 8",
     "Regione": "Puglia",
     "Comitato": "Brindisi",
-    "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "Squadre": 4,
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8034,16 +8097,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
-  },
-  {
-    "status": "non soddisfa c.u.",
-    "Disciplina": "Pallavolo",
-    "categoria": "Ragazzi Misto",
-    "Regione": "Puglia",
-    "Comitato": "Brindisi",
-    "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8052,7 +8106,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8061,7 +8115,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8070,7 +8124,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8079,7 +8133,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8088,7 +8142,7 @@
     "Regione": "Puglia",
     "Comitato": "Brindisi",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8097,7 +8151,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8106,7 +8160,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8115,7 +8169,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8124,7 +8178,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8133,7 +8187,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8142,7 +8196,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8151,7 +8205,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8160,7 +8214,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8169,7 +8223,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8178,7 +8232,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8187,7 +8241,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8196,7 +8250,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8205,7 +8259,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8214,7 +8268,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8223,7 +8277,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8232,7 +8286,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8241,7 +8295,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8250,7 +8304,7 @@
     "Regione": "Puglia",
     "Comitato": "Lecce",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8259,7 +8313,7 @@
     "Regione": "Sicilia",
     "Comitato": "Acireale",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8268,7 +8322,7 @@
     "Regione": "Sicilia",
     "Comitato": "Acireale",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8277,7 +8331,7 @@
     "Regione": "Sicilia",
     "Comitato": "Agrigento",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8286,7 +8340,7 @@
     "Regione": "Sicilia",
     "Comitato": "Caltagirone",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8295,7 +8349,7 @@
     "Regione": "Sicilia",
     "Comitato": "Caltanissetta",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8304,7 +8358,7 @@
     "Regione": "Sicilia",
     "Comitato": "Caltanissetta",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8313,7 +8367,7 @@
     "Regione": "Sicilia",
     "Comitato": "Catania",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8322,7 +8376,7 @@
     "Regione": "Sicilia",
     "Comitato": "Enna",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8331,7 +8385,7 @@
     "Regione": "Sicilia",
     "Comitato": "Enna",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8340,7 +8394,7 @@
     "Regione": "Sicilia",
     "Comitato": "Enna",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8349,7 +8403,7 @@
     "Regione": "Sicilia",
     "Comitato": "Enna",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8358,7 +8412,7 @@
     "Regione": "Sicilia",
     "Comitato": "Enna",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8367,7 +8421,7 @@
     "Regione": "Sicilia",
     "Comitato": "Enna",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8376,7 +8430,7 @@
     "Regione": "Sicilia",
     "Comitato": "Enna",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8385,7 +8439,7 @@
     "Regione": "Sicilia",
     "Comitato": "Palermo",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8394,7 +8448,7 @@
     "Regione": "Sicilia",
     "Comitato": "Palermo",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8403,7 +8457,7 @@
     "Regione": "Sicilia",
     "Comitato": "Palermo",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8411,8 +8465,8 @@
     "categoria": "Under 12 (Supervolley - 4vs4) Maschile",
     "Regione": "Sicilia",
     "Comitato": "Palermo",
-    "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "Squadre": 3,
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8421,7 +8475,7 @@
     "Regione": "Sicilia",
     "Comitato": "Siracusa",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8430,7 +8484,7 @@
     "Regione": "Sicilia",
     "Comitato": "Siracusa",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8439,7 +8493,7 @@
     "Regione": "Sicilia",
     "Comitato": "Siracusa",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8448,7 +8502,7 @@
     "Regione": "Sicilia",
     "Comitato": "Siracusa",
     "Squadre": 2,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8457,16 +8511,7 @@
     "Regione": "Toscana",
     "Comitato": "Pisa",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
-  },
-  {
-    "status": "non soddisfa c.u.",
-    "Disciplina": "Pallacanestro",
-    "categoria": "Allievi",
-    "Regione": "Umbria",
-    "Comitato": "Perugia",
-    "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8475,7 +8520,7 @@
     "Regione": "Veneto",
     "Comitato": "Legnago",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8484,7 +8529,7 @@
     "Regione": "Veneto",
     "Comitato": "Padova",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8493,7 +8538,7 @@
     "Regione": "Veneto",
     "Comitato": "Rovigo",
     "Squadre": 4,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8502,7 +8547,7 @@
     "Regione": "Veneto",
     "Comitato": "Rovigo",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8511,7 +8556,7 @@
     "Regione": "Veneto",
     "Comitato": "Treviso",
     "Squadre": 1,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8520,7 +8565,7 @@
     "Regione": "Veneto",
     "Comitato": "Venezia",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "non soddisfa c.u.",
@@ -8529,7 +8574,7 @@
     "Regione": "Veneto",
     "Comitato": "Venezia",
     "Squadre": 3,
-    "NOTE": "Non soddiusfa C.U."
+    "NOTE": "Non soddisfa C.U."
   },
   {
     "status": "Non previsto nazionali",
