@@ -5554,6 +5554,51 @@
   },
   {
     "status": "Soddisfa C.U.",
+    "Disciplina": "Calcio a Cinque",
+    "categoria": "Under 10",
+    "Regione": "Sardegna",
+    "Comitato": "Sassari",
+    "Squadre": 5,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Calcio a Cinque",
+    "categoria": "Under 12",
+    "Regione": "Sardegna",
+    "Comitato": "Sassari",
+    "Squadre": 7,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Calcio a Cinque",
+    "categoria": "Under 8",
+    "Regione": "Sardegna",
+    "Comitato": "Sassari",
+    "Squadre": 5,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Calcio a Sette",
+    "categoria": "Under 10",
+    "Regione": "Sardegna",
+    "Comitato": "Sassari",
+    "Squadre": 5,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Calcio a Sette",
+    "categoria": "Under 12",
+    "Regione": "Sardegna",
+    "Comitato": "Sassari",
+    "Squadre": 6,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
     "Disciplina": "Calcio",
     "categoria": "Allievi",
     "Regione": "Sicilia",
