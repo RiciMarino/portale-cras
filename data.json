@@ -5834,10 +5834,64 @@
   {
     "status": "Soddisfa C.U.",
     "Disciplina": "Calcio a Cinque",
+    "categoria": "Ragazzi",
+    "Regione": "Sicilia",
+    "Comitato": "Caltagirone",
+    "Squadre": 13,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Calcio a Cinque",
     "categoria": "Under 10",
     "Regione": "Sicilia",
     "Comitato": "Caltagirone",
     "Squadre": 7,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Calcio a Cinque",
+    "categoria": "Under 12",
+    "Regione": "Sicilia",
+    "Comitato": "Caltagirone",
+    "Squadre": 10,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Calcio a Cinque",
+    "categoria": "Under 8",
+    "Regione": "Sicilia",
+    "Comitato": "Caltagirone",
+    "Squadre": 6,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Pallavolo",
+    "categoria": "Allieve",
+    "Regione": "Sicilia",
+    "Comitato": "Caltagirone",
+    "Squadre": 6,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Pallavolo",
+    "categoria": "Juniores Femminile",
+    "Regione": "Sicilia",
+    "Comitato": "Caltagirone",
+    "Squadre": 6,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Pallavolo",
+    "categoria": "Under 13 (6vs6) Femminile",
+    "Regione": "Sicilia",
+    "Comitato": "Caltagirone",
+    "Squadre": 6,
     "NOTE": ""
   },
   {
@@ -6476,6 +6530,15 @@
     "categoria": "Under 13 (6vs6) Femminile",
     "Regione": "Sicilia",
     "Comitato": "Siracusa",
+    "Squadre": 6,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Pallacanestro",
+    "categoria": "Open M",
+    "Regione": "Sicilia",
+    "Comitato": "Trapani",
     "Squadre": 6,
     "NOTE": ""
   },
