@@ -5888,6 +5888,15 @@
   {
     "status": "Soddisfa C.U.",
     "Disciplina": "Pallavolo",
+    "categoria": "Under 12 (Supervolley - 4vs4)",
+    "Regione": "Sicilia",
+    "Comitato": "Caltagirone",
+    "Squadre": 6,
+    "NOTE": ""
+  },
+  {
+    "status": "Soddisfa C.U.",
+    "Disciplina": "Pallavolo",
     "categoria": "Under 13 (6vs6) Femminile",
     "Regione": "Sicilia",
     "Comitato": "Caltagirone",
@@ -8439,15 +8448,6 @@
     "Regione": "Sicilia",
     "Comitato": "Agrigento",
     "Squadre": 1,
-    "NOTE": "Non soddisfa C.U."
-  },
-  {
-    "status": "non soddisfa c.u.",
-    "Disciplina": "Pallavolo",
-    "categoria": "Under 12 (Supervolley - 4vs4)",
-    "Regione": "Sicilia",
-    "Comitato": "Caltagirone",
-    "Squadre": 2,
     "NOTE": "Non soddisfa C.U."
   },
   {
